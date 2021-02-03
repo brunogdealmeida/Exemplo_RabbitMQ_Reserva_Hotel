@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+DOK4BJX+CKdpZ/kRSrITL6/SVpB2IFCME8ZJrKRnFKovhChH2wn7DuislK0DKV7q94MTyZZOEJP2FD9zQWRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\source\\repos\\ReservaHotel\\ReservaHotel\\ReservaHotel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

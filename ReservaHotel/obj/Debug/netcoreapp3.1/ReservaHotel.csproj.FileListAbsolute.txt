@@ -1,0 +1,15 @@
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.exe
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.deps.json
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.json
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.CopyComplete
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\Bruno\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.genruntimeconfig.cache
