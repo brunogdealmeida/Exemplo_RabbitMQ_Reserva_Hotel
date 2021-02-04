@@ -18,6 +18,12 @@ namespace ReservaHotel
             using (var connectionFactory = factory.CreateConnection())
             using (var channel = connectionFactory.CreateModel())
             {
+                channel.QueueDeclare(queue: "Registry",
+                                    durable: false,
+                                    exclusive: false,
+                                    autoDelete: false,
+                                    arguments: null);
+
                 while (count >= 1)
                 {
                     var message = $"Reserva nº { Guid.NewGuid().ToString() } no Hotel ABC registrada com sucesso.";
